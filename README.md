@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luciana-Gassi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning BIG3 (HTML-CSS-JS)
-- 💞️ I’m looking to collaborate on Web Development alternance job
+- 💞️ I’m looking to collaborate on Junior Web Developer job
 - 📫 How to reach me gassi.luciana@gmail.com
 
 <!---
